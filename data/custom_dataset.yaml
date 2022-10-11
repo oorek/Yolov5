@@ -1,7 +1,7 @@
 path: /workspace/Yolov5/custom_dataset
 train: train/images
-val: valid/images
-test: 
+val: val/images
+test: test/images
 
 nc: 17
 
