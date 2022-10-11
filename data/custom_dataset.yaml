@@ -1,4 +1,4 @@
-path: /workspace/yolov5/custom_dataset
+path: /workspace/Yolov5/custom_dataset
 train: train/images
 val: valid/images
 test: 
