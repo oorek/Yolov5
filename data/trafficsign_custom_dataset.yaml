@@ -1,0 +1,14 @@
+path: /workspace/Yolov5/trafficsign_custom_dataset
+train: train/images
+val: val/images
+test: test/images
+
+nc: 6
+
+names:
+  0: red traffic light
+  1: yellow traffic light
+  2: green traffic light
+  3: restriction traffic sign
+  4: caution traffic sign
+  5: instruction traffic sign
