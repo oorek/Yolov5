@@ -1,0 +1,16 @@
+path: /workspace/Yolov5/coco_custom_dataset
+train: train/images
+val: val/images
+test: test/images
+
+nc: 8
+
+names:
+  0: person
+  1: bicycle
+  2: car
+  3: motorcycle
+  4: dummy1
+  5: bus
+  6: dummy2
+  7: truck
