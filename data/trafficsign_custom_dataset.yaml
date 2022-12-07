@@ -1,4 +1,5 @@
-path: /workspace/Yolov5/trafficsign_custom_dataset
+#path: /workspace/Yolov5/trafficsign_custom_dataset
+path: C:\Users\Moon\yolo\Yolov5\trafficsign_custom_dataset
 train: train/images
 val: val/images
 test: test/images
